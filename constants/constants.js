@@ -19,8 +19,8 @@ import { MdCall } from "react-icons/md";
 
 export const accountDetails = {
   account: "Google Account",
-  name: "Jayesh Choudhary",
-  gmail: "jayesh.choudhary2906@gmail.com",
+  name: "Vivek Kumar",
+  gmail: "vkpvivek1998@gmail.com",
 };
 
 export const navBar = [
@@ -52,14 +52,14 @@ export const navBar = [
 ];
 
 export const info = {
-  heading: "Jayesh Choudhary: Software Engineer",
-  mobileHeading: "Jayesh Choudhary",
+  heading: "Vivek Kumar: Software Engineer",
+  mobileHeading: "Vivek Kumar",
   description:
     "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
   workExperience: "Work Experience",
   designation: "Software Engineer",
-  company: "Mindtree Private Limited",
-  timePeriod: "03/2021 - Present",
+  company: "EY (GDS)",
+  timePeriod: "02/2022 - Present",
   workProjects: [
     {
       title: "DHRE RealConnect (01/02/2022 - Present) :",
@@ -80,40 +80,40 @@ export const sideBarInfo = {
 
   contactDetails: [
     {
-      title: "jayesh.choudhary2906@gmail.com",
-      href: "mailto:jayesh.choudhary2906@gmail.com",
+      title: "vkpvivek1998@gmail.com",
+      href: "mailto:vkpvivek1998@gmail.com",
       icon: GrMail,
     },
     {
-      title: "8329812727",
+      title: "7978742322",
       href: "",
       icon: BsFillPhoneFill,
     },
     {
       title: "Linkedin Profile",
-      href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+      href: "https://www.linkedin.com/in/kumar-vivek-pandey/",
       icon: FaLinkedin,
     },
-    {
-      title: "Github Profile",
-      href: "https://github.com/jayesh2906",
-      icon: AiFillGithub,
-    },
-    {
-      title: "Portfolio link",
-      href: "https://jayesh2906.github.io",
-      icon: BiLinkAlt,
-    },
-    {
-      title: "Google Portfolio link",
-      href: "https://google-portfolio.vercel.app/",
-      icon: AiFillGoogleCircle,
-    },
-    {
-      title: "Twitter Profile",
-      href: "https://twitter.com/JayeshMERN",
-      icon: AiFillTwitterCircle,
-    },
+    // {
+    //   title: "Github Profile",
+    //   href: "https://github.com/jayesh2906",
+    //   icon: AiFillGithub,
+    // },
+    // {
+    //   title: "Portfolio link",
+    //   href: "https://jayesh2906.github.io",
+    //   icon: BiLinkAlt,
+    // },
+    // {
+    //   title: "Google Portfolio link",
+    //   href: "https://google-portfolio.vercel.app/",
+    //   icon: AiFillGoogleCircle,
+    // },
+    // {
+    //   title: "Twitter Profile",
+    //   href: "https://twitter.com/JayeshMERN",
+    //   icon: AiFillTwitterCircle,
+    // },
   ],
 };
 
@@ -140,7 +140,7 @@ export const projectVideos = [
   {
     heading: "Mini Laptop Implementation using React Js.",
     platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
+    author: `Vivek Kumar`,
     image: `/assets/laptopdesign.png`,
     date: `1-Mar-2022`,
     link: `https://www.linkedin.com/feed/update/urn:li:ugcPost:6904281486057373696/`,
@@ -148,7 +148,7 @@ export const projectVideos = [
   {
     heading: "House Design with pure CSS [2022].",
     platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
+    author: `Vivek Kumar`,
     image: `/assets/housedesign.png`,
     date: `10-Jan-2022`,
     link: `https://www.linkedin.com/posts/jayesh-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
@@ -156,7 +156,7 @@ export const projectVideos = [
   {
     heading: "IPL-2022 Web Application using React Js.",
     platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
+    author: `Vivek Kumar`,
     image: `/assets/ipl2022.png`,
     date: `26-Mar-2022`,
     link: `https://www.linkedin.com/feed/update/urn:li:activity:6913334580070498304/`,
@@ -448,14 +448,14 @@ export const contactDetails = [
   {
     icon: MdCall,
     type: "Mobile",
-    value: "8329812727",
+    value: "7978742322",
     href: "",
   },
   {
     icon: GrMail,
     type: "Email",
-    value: "jayesh.choudhary2906@gmail.com",
-    href: "mailto:jayesh.choudhary2906@gmail.com",
+    value: "vkpvivek1998@gmail.com",
+    href: "mailto:vkpvivek1998@gmail.com",
   },
   {
     icon: MdLocationOn,
