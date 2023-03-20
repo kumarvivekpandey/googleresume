@@ -18,13 +18,13 @@ import { SearchContext } from "../../layout/Layout";
 
 const TopSearch = () => {
   const { darkMode, handleThemeMode } = useContext(ThemeContext);
-  const [search, setSearch] = useState("Jayesh Choudhary");
+  const [search, setSearch] = useState("Vivek Kumar");
   const [showDetails, setShowDetails] = useState(false);
   const { searchValueChange, handleSearch } = useContext(SearchContext);
 
   useEffect(() => {
     if (searchValueChange) {
-      setSearch("Jayesh Choudhary");
+      setSearch("Vivek Kumar");
     }
   }, [searchValueChange]);
 

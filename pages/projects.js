@@ -19,7 +19,7 @@ const Projects = () => {
   return (
     <div>
       <TitleDesc
-        title="Jayesh's Projects"
+        title="Vivek's Projects"
         desc="Here mentioned all the personal projects of Jayesh."
       />
       <ProjectContainer>

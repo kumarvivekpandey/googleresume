@@ -12,7 +12,7 @@ const Skills = () => {
   return (
     <div>
       <TitleDesc
-        title="Jayesh's Skills"
+        title="Vivek  Skills"
         desc="Here mentioned all the technical skills of Jayesh."
       />
       <SkillContainer>
