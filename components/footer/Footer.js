@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <FooterContainer darkMode={darkMode}>
       <p>
-        {footerData.name}
+        Vivek Kumar
         <AiOutlineCopyrightCircle />
         <span>{footerData.year}</span>
       </p>

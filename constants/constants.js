@@ -151,7 +151,7 @@ export const projectVideos = [
     author: `Vivek Kumar`,
     image: `/assets/housedesign.png`,
     date: `10-Jan-2022`,
-    link: `https://www.linkedin.com/posts/Vivek-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
+    link: `https://www.linkedin.com/posts/Vivek-Kumar-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
   },
   {
     heading: "IPL-2022 Web Application using React Js.",
@@ -183,12 +183,12 @@ export const relatedsearch = [
 ];
 
 export const footerData = {
-  name: "VivekChoudhary",
+  name: "VivekKumar",
   year: new Date().getFullYear(),
   darkTheme: "Dark theme: ",
   socialLinks: [
     {
-      href: "https://www.linkedin.com/in/Vivek-choudhary-72444518b/",
+      href: "https://www.linkedin.com/in/Vivek-Kumar-72444518b/",
       icon: FaLinkedin,
     },
     {
@@ -355,7 +355,7 @@ export const projectsData = [
       "User can open and close Gate, Windows and Slide of a House, User can also rotate a house in 360°.",
     ],
     videoDemo:
-      "https://www.linkedin.com/posts/Vivek-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d",
+      "https://www.linkedin.com/posts/Vivek-Kumar-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d",
     liveDemo: "https://Vivek2906.github.io/My-house.github.io/house.html",
     sourceCode: "https://github.com/Vivek2906/My-house.github.io",
   },
@@ -467,7 +467,7 @@ export const contactDetails = [
     icon: FaLinkedin,
     type: "Linkedin",
     value: "Contact through Linkedin",
-    href: "https://www.linkedin.com/in/Vivek-choudhary-72444518b/",
+    href: "https://www.linkedin.com/in/Vivek-Kumar-72444518b/",
   },
 ];
 
