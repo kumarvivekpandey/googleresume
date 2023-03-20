@@ -31,7 +31,7 @@ const SideBar = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        {`Jayesh's Resume`}
+        {`Vivek's Resume`}
         <AiOutlineDownload size={19} />
       </ResumeWrapper>
       <hr />

@@ -96,12 +96,12 @@ export const sideBarInfo = {
     },
     // {
     //   title: "Github Profile",
-    //   href: "https://github.com/jayesh2906",
+    //   href: "https://github.com/Vivek2906",
     //   icon: AiFillGithub,
     // },
     // {
     //   title: "Portfolio link",
-    //   href: "https://jayesh2906.github.io",
+    //   href: "https://Vivek2906.github.io",
     //   icon: BiLinkAlt,
     // },
     // {
@@ -111,7 +111,7 @@ export const sideBarInfo = {
     // },
     // {
     //   title: "Twitter Profile",
-    //   href: "https://twitter.com/JayeshMERN",
+    //   href: "https://twitter.com/VivekMERN",
     //   icon: AiFillTwitterCircle,
     // },
   ],
@@ -119,20 +119,20 @@ export const sideBarInfo = {
 
 export const accordionData = [
   {
-    question: "What skills does Jayesh have?",
-    answer: `Jayesh is well-versed in Javascript, React Js, Redux, CSS 3, HTML 5, Tailwind, Next Js, React Native, Node Js, Express Js, MongoDb.`,
+    question: "What skills does Vivek have?",
+    answer: `Vivek is well-versed in Javascript, React Js, Redux, CSS 3, HTML 5, Tailwind, Next Js, React Native, Node Js, Express Js, MongoDb.`,
   },
   {
-    question: "What services does Jayesh provide?",
-    answer: `Jayesh provides fully responsive frontend applications with React Js, Full-stack aplications with MERN and Backend services with Node Js.`,
+    question: "What services does Vivek provide?",
+    answer: `Vivek provides fully responsive frontend applications with React Js, Full-stack aplications with MERN and Backend services with Node Js.`,
   },
   {
-    question: "Is Jayesh frontend or backend developer?",
-    answer: `Jayesh is a full stack web developer, Experienced in developing full stack MERN apllications.`,
+    question: "Is Vivek frontend or backend developer?",
+    answer: `Vivek is a full stack web developer, Experienced in developing full stack MERN apllications.`,
   },
   {
-    question: "How much experience does Jayesh have?",
-    answer: `Jayesh has ${calculateExperience()} of experience in software industry.`,
+    question: "How much experience does Vivek have?",
+    answer: `Vivek has ${calculateExperience()} of experience in software industry.`,
   },
 ];
 
@@ -151,7 +151,7 @@ export const projectVideos = [
     author: `Vivek Kumar`,
     image: `/assets/housedesign.png`,
     date: `10-Jan-2022`,
-    link: `https://www.linkedin.com/posts/jayesh-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
+    link: `https://www.linkedin.com/posts/Vivek-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
   },
   {
     heading: "IPL-2022 Web Application using React Js.",
@@ -165,38 +165,38 @@ export const projectVideos = [
 
 export const relatedsearch = [
   {
-    text: "Jayesh's Skills",
+    text: "Vivek's Skills",
     href: "/skills",
   },
   {
-    text: "Jayesh's Projects",
+    text: "Vivek's Projects",
     href: "/projects",
   },
   {
-    text: "Contact Jayesh",
+    text: "Contact Vivek",
     href: "/contact",
   },
   {
-    text: "Jayesh's Location",
+    text: "Vivek's Location",
     href: "/map",
   },
 ];
 
 export const footerData = {
-  name: "JayeshChoudhary",
+  name: "VivekChoudhary",
   year: new Date().getFullYear(),
   darkTheme: "Dark theme: ",
   socialLinks: [
     {
-      href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+      href: "https://www.linkedin.com/in/Vivek-choudhary-72444518b/",
       icon: FaLinkedin,
     },
     {
-      href: "https://jayesh2906.github.io",
+      href: "https://Vivek2906.github.io",
       icon: BiLinkAlt,
     },
     {
-      href: "https://github.com/jayesh2906",
+      href: "https://github.com/Vivek2906",
       icon: FaGithub,
     },
     {
@@ -204,14 +204,14 @@ export const footerData = {
       icon: FaInstagram,
     },
     {
-      href: "https://twitter.com/JayeshMERN",
+      href: "https://twitter.com/VivekMERN",
       icon: FaTwitterSquare,
     },
   ],
 };
 
 export const skillsData = {
-  info: "Jayesh loves to develop innovative web apps using new technologies, He is keen to gain experience, enhance and upgrade his skills, He enjoys building everything from small sites and landing pages to rich interactive web apps. He loves creating visually stunning, unique and responsive web apps.",
+  info: "Vivek loves to develop innovative web apps using new technologies, He is keen to gain experience, enhance and upgrade his skills, He enjoys building everything from small sites and landing pages to rich interactive web apps. He loves creating visually stunning, unique and responsive web apps.",
   skills: [
     {
       title: "Frontend Skills",
@@ -344,8 +344,8 @@ export const projectsData = [
     ],
     videoDemo:
       "https://www.linkedin.com/feed/update/urn:li:ugcPost:6904281486057373696/",
-    liveDemo: "https://jayesh2906.github.io/laptop-design/",
-    sourceCode: "https://github.com/jayesh2906/laptop-design",
+    liveDemo: "https://Vivek2906.github.io/laptop-design/",
+    sourceCode: "https://github.com/Vivek2906/laptop-design",
   },
   {
     title: "House Design with CSS",
@@ -355,9 +355,9 @@ export const projectsData = [
       "User can open and close Gate, Windows and Slide of a House, User can also rotate a house in 360°.",
     ],
     videoDemo:
-      "https://www.linkedin.com/posts/jayesh-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d",
-    liveDemo: "https://jayesh2906.github.io/My-house.github.io/house.html",
-    sourceCode: "https://github.com/jayesh2906/My-house.github.io",
+      "https://www.linkedin.com/posts/Vivek-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d",
+    liveDemo: "https://Vivek2906.github.io/My-house.github.io/house.html",
+    sourceCode: "https://github.com/Vivek2906/My-house.github.io",
   },
   {
     title: "IPL-2022 Web Application",
@@ -372,7 +372,7 @@ export const projectsData = [
     videoDemo:
       "https://www.linkedin.com/feed/update/urn:li:activity:6913334580070498304/",
     liveDemo: "https://ipl-2022.netlify.app/",
-    sourceCode: "https://github.com/jayesh2906/IPL-2022-App",
+    sourceCode: "https://github.com/Vivek2906/IPL-2022-App",
   },
   {
     title: "Full E-Commerce Web Application",
@@ -387,7 +387,7 @@ export const projectsData = [
     videoDemo:
       "https://www.linkedin.com/feed/update/urn:li:activity:6842941644195672064/",
     liveDemo: "",
-    sourceCode: "https://github.com/jayesh2906/Final-Ecommerce-Project",
+    sourceCode: "https://github.com/Vivek2906/Final-Ecommerce-Project",
   },
   {
     title: "Ice Mart Mobile Application",
@@ -402,7 +402,7 @@ export const projectsData = [
     videoDemo:
       "https://www.linkedin.com/feed/update/urn:li:activity:6941967333682737152/",
     liveDemo: "",
-    sourceCode: "https://github.com/jayesh2906/Ice-Mart",
+    sourceCode: "https://github.com/Vivek2906/Ice-Mart",
   },
   {
     title: "Real-time Online Chat Application",
@@ -416,7 +416,7 @@ export const projectsData = [
     videoDemo:
       "https://www.linkedin.com/feed/update/urn:li:activity:6877141876273762304/",
     liveDemo: "",
-    sourceCode: "https://github.com/jayesh2906/Lets-Chat-app",
+    sourceCode: "https://github.com/Vivek2906/Lets-Chat-app",
   },
   {
     title: "Movie Info Application",
@@ -460,14 +460,14 @@ export const contactDetails = [
   {
     icon: MdLocationOn,
     type: "Address",
-    value: "Burhanpur, Madhya Pradesh",
+    value: "Siwan, Bihar",
     href: "",
   },
   {
     icon: FaLinkedin,
     type: "Linkedin",
     value: "Contact through Linkedin",
-    href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+    href: "https://www.linkedin.com/in/Vivek-choudhary-72444518b/",
   },
 ];
 
