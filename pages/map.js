@@ -9,8 +9,8 @@ const Map = () => {
   return (
     <div>
       <TitleDesc
-        title="Jayesh's Location"
-        desc="Here mentioned location of Jayesh."
+        title="VIvek's Location"
+        desc="Here mentioned location of VIvek."
       />
       <MapContainer>
         <iframe

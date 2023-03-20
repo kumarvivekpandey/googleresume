@@ -23,7 +23,7 @@ const Home = () => {
   return (
     <div>
       <TitleDesc
-        title="Jayesh's Portfolio"
+        title="VIvek's Portfolio"
         desc="This is Google theme portfolio created by Vivek Kumar using Nextjs Framework."
       />
       <HomeContainer>

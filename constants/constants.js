@@ -19,7 +19,7 @@ import { MdCall } from "react-icons/md";
 
 export const accountDetails = {
   account: "Google Account",
-  name: "Vivek Kumar",
+  name: "Vivek Kumar'S",
   gmail: "vkpvivek1998@gmail.com",
 };
 

@@ -20,7 +20,7 @@ const Projects = () => {
     <div>
       <TitleDesc
         title="Vivek's Projects"
-        desc="Here mentioned all the personal projects of Jayesh."
+        desc="Here mentioned all the personal projects of VIvek."
       />
       <ProjectContainer>
         <ProjectsGrid>
